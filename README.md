@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Felicruz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, Python, etc.
-- 💞️ I’m looking to collaborate on CSS,HTML and Python projects
+- 🌱 I’m currently learning HTML, CSS,Javascript, Python,C,Lua,etc.
+- 💞️ I’m looking to collaborate on CSS,HTML,Javascript,Python,C, and Lua projects
 - 📫 How to reach me fndayi5@gmail.com
 
 <!---
